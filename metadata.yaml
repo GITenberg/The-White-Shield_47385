@@ -1,9 +1,13 @@
 _repo: The-White-Shield_47385
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Stevens, Dalton
     gutenberg_agent_id: '44288'
     url: http://www.gutenberg.org/2009/agents/44288
+covers:
+- cover_type: archival
+  image_path: 47385-h/images/cover.jpg
 creator:
   author:
     agent_name: Reed, Myrtle
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/577
     wikipedia: http://www.online-literature.com/myrtle-reed/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47385#The-White-Shield
 gutenberg_issued: '2014-11-17'
 gutenberg_type: Text
 identifiers:
